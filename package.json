@@ -10,6 +10,11 @@
   "author": "azurite",
   "license": "MIT",
   "dependencies": {
-    "multer": "^1.2.0"
+    "connect-logger": "0.0.1",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "multer": "^1.2.0",
+    "serve-favicon": "^2.3.0",
+    "serve-static": "^1.11.1"
   }
 }
